@@ -24,9 +24,9 @@ export default function Navigation() {
           <Image
             src="/images/roofing/newlogo.png"
             alt="RJE Home Remodeling"
-            width={180}
-            height={60}
-            className="h-12 w-auto"
+            width={270}
+            height={90}
+            className="h-18 w-auto"
             priority
           />
         </Link>
