@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F5F5F0;
+  --color-surface: #E8E8E0;
+  --color-primary: #2C3E2C;
+  --color-accent: #D4A373;
+  --color-text-main: #1C1C1C;
+
+  --font-header: "Inter", sans-serif;
+  --font-body: "Lato", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text-main);
+  background-color: var(--color-bg);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-header);
+}

@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[80613,["/_next/static/chunks/19314babe9f41203.js","/_next/static/chunks/eadfe309d19181ab.js","/_next/static/chunks/ce050d5fdf3dfa60.js"],"default"]
+3:I[31213,["/_next/static/chunks/19314babe9f41203.js","/_next/static/chunks/eadfe309d19181ab.js","/_next/static/chunks/ce050d5fdf3dfa60.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"BPekFzv8Ic-UTqteLhkgU","rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"pt-32 pb-16 bg-primary","children":["$","div",null,{"className":"mx-auto max-w-7xl px-6","children":[["$","p",null,{"className":"font-header text-sm font-bold uppercase tracking-[0.3em] text-accent mb-3","children":"What We Do"}],["$","h1",null,{"className":"font-header text-4xl md:text-6xl font-black text-white","children":"Our Services"}],["$","p",null,{"className":"mt-4 text-white/60 text-lg max-w-2xl","children":"From kitchens and bathrooms to complete home additions, we bring your vision to life with expert craftsmanship and a design-build approach."}]]}]}],["$","$L2",null,{}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/ce050d5fdf3dfa60.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
