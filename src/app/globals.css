@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bg: #F5F5F0;
-  --color-surface: #E8E8E0;
-  --color-primary: #2C3E2C;
-  --color-accent: #D4A373;
-  --color-text-main: #1C1C1C;
+  --color-bg: #FAF8F5;        /* Marble White */
+  --color-surface: #F0EBE3;    /* Warm Linen */
+  --color-primary: #2A1F14;    /* Dark Walnut */
+  --color-accent: #B07340;     /* Burnished Copper */
+  --color-text-main: #1A1510;  /* Espresso */
 
   --font-header: "Inter", sans-serif;
   --font-body: "Lato", sans-serif;

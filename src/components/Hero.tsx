@@ -8,8 +8,8 @@ export default function Hero() {
   return (
     <section className="relative h-screen w-full overflow-hidden">
       <Image
-        src="/images/hero/kitchen-hero.jpg"
-        alt="Beautiful kitchen remodel by RJE"
+        src="/images/hero/home-remodel.jpg"
+        alt="Stunning kitchen remodel with walnut cabinetry and marble countertops by RJE"
         fill
         className="object-cover"
         priority
@@ -28,7 +28,7 @@ export default function Hero() {
               Design & Build General Contractor
             </p>
             <h1 className="font-header text-4xl md:text-6xl lg:text-8xl font-black text-white leading-[0.95] mb-6 max-w-4xl">
-              Home is the starting place of love, hope & dreams.
+              Design Your Dream Home.
             </h1>
             <p className="text-white/70 text-lg md:text-xl max-w-2xl mb-8">
               Transforming homes across Bucks, Montgomery, Chester & Delaware Counties since 1997.
