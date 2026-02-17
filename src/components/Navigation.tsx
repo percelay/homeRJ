@@ -22,7 +22,7 @@ export default function Navigation() {
       <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-20">
         <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/images/roofing/newlogo.png"
+            src="/images/Group 46.png"
             alt="RJE Home Remodeling"
             width={270}
             height={90}
